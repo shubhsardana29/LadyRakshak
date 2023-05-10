@@ -1,16 +1,3 @@
 # lady_rakshak
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+LadyRakshak is a women safety app focusing on providing essential features for enhanced personal safety. The app offers one-tap emergency calls, quick access to nearby essentials like police stations and pharmacies, and the ability to send the current live location as an SMS to trusted contacts.

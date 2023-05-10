@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "138223239701",
+    "project_id": "ladyrakshak",
+    "storage_bucket": "ladyrakshak.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138223239701:android:36969e6785a393c7f7041c",
+        "android_client_info": {
+          "package_name": "com.example.lady_rakshak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138223239701-lkngdkuuddf0encs57bj2q197uh1mfun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUvLhxBbYYMmIhmaGKd_NmyillWjThvEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138223239701-lkngdkuuddf0encs57bj2q197uh1mfun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
